@@ -1,6 +1,6 @@
 # AR-Campus-Tour
 The university surrounding locations are traditionally provided by signs and written tour guides in pamphlets, through the web or, in certain circumstances via signposts. However, they are insufficient as visitors, new students or even existing ones may find themselves asking people across the institution for directions to a building or a specific location. 
-Moreover, before choosing a college, Mauritians and international students want to learn as much as they can about the school, location to a specific place, classes, student life, and extracurricular activities. With the global pandemic, today, e-learning has increased drastically. Thus, virtual tours are becoming more vital than ever particularly for students who need to choose a college.  As a result, the development of AR in mobile phones for campus tours can enhance context and location awareness to become simple, fun and limitless. 
+Moreover, virtual tours are becoming more vital than ever particularly for students who need to choose a college.  As a result, the development of AR in mobile phones for campus tours can enhance context and location awareness to become simple, fun and limitless. 
 
 **Aims & Objectives of the project:**
 
