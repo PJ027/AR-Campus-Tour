@@ -4,18 +4,6 @@ Moreover, virtual tours are becoming more vital than ever particularly for stude
 
 **Aims & Objectives of the project:**
 
-This project aims to develop an AR mobile application to provide a fun and informative way to explore the UoM campus. The main objectives are as follows: 
-
-•	Scanning buildings and images or the ground for more information
-
-•	AR portal to enter a virtual campus and explore certain areas
-
-•	Design 3D models related to the campus
-
-•	Texts, videos and audios for engaging experience
-
-•	Gamification features 
-
-•	A navigation options 
+This project aims to develop an AR mobile application to provide a fun and informative way to explore the UoM campus. The main objectives are Scanning buildings and images or the ground for more information, AR portal to enter a virtual campus and explore certain areas, Design 3D models related to the campus, Texts, videos and audios for engaging experience, Gamification features, A navigation options 
 
 
